@@ -1,0 +1,12 @@
+[submodule "Parfly-Driver-App"]
+	path = Parfly-Driver-App
+	url = https://github.com/Sa-gg/Parfly-Driver-App.git
+[submodule "Parfly-Backend"]
+	path = Parfly-Backend
+	url = https://github.com/Sa-gg/Parfly-Backend.git
+[submodule "Parfly-Customer-App"]
+	path = Parfly-Customer-App
+	url = https://github.com/Sa-gg/Parfly-Customer-App.git
+[submodule "Parfly-Admin"]
+	path = Parfly-Admin
+	url = https://github.com/Sa-gg/Parfly-Admin.git
