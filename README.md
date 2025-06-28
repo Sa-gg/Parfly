@@ -1,8 +1,8 @@
 <div align="center">
-  <table border="0">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: none;">
     <tr>
-      <td><img src="assets/logo.png" alt="Parfly Logo" width="50"/></td>
-      <td><h1>Parfly</h1></td>
+      <td style="border: none; padding-right: 10px;"><img src="assets/logo.png" alt="Parfly Logo" width="50"/></td>
+      <td style="border: none;"><h1>Parfly</h1></td>
     </tr>
   </table>
 </div>
