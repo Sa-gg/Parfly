@@ -1,4 +1,11 @@
-<h1 align="center"><img src="assets/logo.png" alt="Parfly Logo" width="50"/> Parfly</h1>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td><img src="assets/logo.png" alt="Parfly Logo" width="50"/></td>
+      <td><h1>Parfly</h1></td>
+    </tr>
+  </table>
+</div>
 <p align="center">Multi-User Courier Management System with Driver & Customer Apps + Web Admin Panel</p>
 
 <p align="center">
