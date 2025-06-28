@@ -1,4 +1,4 @@
-<h1 align="center">🚚 Parfly</h1>
+<h1 align="center"><img src="assets/logo.png" alt="Parfly Logo" width="50"/> Parfly</h1>
 <p align="center">Multi-User Courier Management System with Driver & Customer Apps + Web Admin Panel</p>
 
 <p align="center">
